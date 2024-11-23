@@ -8,20 +8,21 @@
 
 
 .navbar-brand {
+    margin-top: -2rem;
+    margin-bottom: -3rem;
+    margin-right: 1rem;
     background-color: #720000;
-    padding: 0.5rem 1rem;
-    border-radius: 5px;
+    padding: 5px;
 }
 
 .navbar-light .nav-link {
-    color: #333;
-    margin-left: 1rem;
+    color: #ffffff;
     font-weight: 500;
     transition: color 0.3s ease-in-out;
 }
 
 .navbar-light .nav-link:hover {
-    color: #d50000;
+    color: #f7ff18;
 }
 
 
@@ -41,7 +42,7 @@ p {
 .btn-danger {
     background-color: #720000;
     border: none;
-    transition: background-color 0.3s ease-in-out;
+    transition: 0.3s;
 }
 
 .btn-danger:hover {
@@ -49,13 +50,13 @@ p {
 }
 
 
-.footer {
+.container text-center text-white{
     background-color: #232323;
     color: #fff;
     font-size: 0.9rem;
 }
 
-.footer p {
+.footer py-3 {
     margin: 0;
 }
 

@@ -6,19 +6,21 @@
 }
 
 .navbar-brand img {
-    border-radius: 5px;
+    margin-top: -2rem;
+    margin-bottom: -3rem;
+    margin-right: 1rem;
     background-color: #720000;
     padding: 5px;
 }
 
 .navbar-light .nav-link {
-    color: #000;
+    color: #ffffff;
     font-weight: 500;
-    transition: color 0.3s ease-in-out;
+    transition: 0.3s;
 }
 
 .navbar-light .nav-link:hover {
-    color: #d50000;
+    color: #f7ff18;
 }
 
 h2 {
@@ -41,14 +43,14 @@ h2 {
 .btn-danger {
     background-color: #720000;
     border: none;
-    transition: background-color 0.3s ease;
+    transition: 0.3s;
 }
 
 .btn-danger:hover {
     background-color: #d50000;
 }
 
-.footer {
+.container text-center {
     background-color: #232323;
     color: #fff;
     font-size: 0.9rem;
