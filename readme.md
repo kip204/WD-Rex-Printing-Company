@@ -6,10 +6,10 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Rex Printing Company Inc.</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -18,9 +18,11 @@
 
 <br />
 
+[![wakatime](https://wakatime.com/badge/user/1791d703-dde6-4caa-95ba-0169ab765a7b/project/04458413-ecc0-427e-84b1-9bd436f55cd6.svg)](https://wakatime.com/badge/user/1791d703-dde6-4caa-95ba-0169ab765a7b/project/04458413-ecc0-427e-84b1-9bd436f55cd6)
+
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=kip204/WD-Rex-Printing-Company)
 
 ---
 
@@ -34,9 +36,6 @@
     <li>
       <a href="#overview">Overview</a>
       <ol>
-        <li>
-          <a href="#key-components">Key Components</a>
-        </li>
         <li>
           <a href="#technology">Technology</a>
         </li>
@@ -58,25 +57,17 @@
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
 Description of the project in details.
-
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
-
-### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+-This project is the development of a modern, user-friendly website for Rex Printing Company Inc., a business specializing in providing high-quality printing services for businesses, schools, and individuals. 
+-The primary purpose of the website is to increase Rex Printing Company’s online visibility, allowing it to reach a broader audience and attract more customers. 
+-The key components of the website include homepage, about section, products/services, and contact page.4
+-HTML was used to structure the content. CSS was added for custom styling. Then, Bootstrap 5 ensures a responsive and mobile-friendly design.
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -117,4 +108,6 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Bootstrap| Used for responsive design and UI components like navbars, modals, and buttons | getbootstrap.com |
+| W3Schools| Offers tutorials and references for HTML and CSS | w3schools.com |
+| FreeCodeCamp| Source of tutorials and examples for beginner to advanced coding concepts. | freecodecamp.org |
