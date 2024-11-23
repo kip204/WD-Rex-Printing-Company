@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.navbar-brand{
+    background-color: #720000;
+    margin-top: -2rem;
+    height: 13rem;
+}
+.logo{
+    margin-top: 2rem;
+}
+.text-center, text-white{
+    background-color: #d10000;
+    height: 12rem;
+    margin-top: -10rem;
+}
