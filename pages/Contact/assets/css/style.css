@@ -50,7 +50,7 @@ p {
 }
 
 
-.container text-center text-white{
+.container, text-center{
     background-color: #232323;
     color: #fff;
     font-size: 0.9rem;
