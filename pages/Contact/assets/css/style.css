@@ -50,8 +50,9 @@ p {
 }
 
 
-.container, text-center{
+.container{
     background-color: #232323;
+    text-align: center;
     color: #fff;
     font-size: 0.9rem;
 }
