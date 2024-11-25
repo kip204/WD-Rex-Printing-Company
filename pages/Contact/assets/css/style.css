@@ -50,9 +50,8 @@ p {
 }
 
 
-.footer{
+.container text-center text-white{
     background-color: #232323;
-    text-align: center;
     color: #fff;
     font-size: 0.9rem;
 }
